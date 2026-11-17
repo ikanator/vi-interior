@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kurylenko.pl/sitemap.xml
+Sitemap: https://vi-interior.com.pl/sitemap.xml

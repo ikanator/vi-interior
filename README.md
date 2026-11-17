@@ -1,6 +1,6 @@
-# Kurylenko Remonty Kraków -- Website
+# V&I Interior Remonty Kraków -- Website
 
-Static HTML website for Kurylenko renovation company in Kraków, Poland.
+Static HTML website for V&I Interior renovation company in Kraków, Poland.
 
 ## Pages
 
@@ -32,11 +32,11 @@ Static HTML website for Kurylenko renovation company in Kraków, Poland.
 
 ## Deployment
 
-Designed for deployment at `https://kurylenko.pl`.
+Designed for deployment at `https://vi-interior.com.pl`.
 Can be hosted on GitHub Pages, Netlify, Vercel, or any static host.
 
 For GitHub Pages with custom domain:
-1. Add `CNAME` file with `kurylenko.pl`
+1. Add `CNAME` file with `vi-interior.com.pl`
 2. Configure DNS A records to GitHub Pages IPs
 3. Enable HTTPS in repository settings
 

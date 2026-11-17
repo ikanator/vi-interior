@@ -287,3 +287,5 @@ button { cursor: pointer; font-family: inherit; }
   .hero-dk { padding: 64px 0 40px; }
   .footer-grid { grid-template-columns: 2fr 1fr; }
 }
+.logo-icon { font-size: 14px; letter-spacing: -.5px; }
+.owner-avatar { font-size: 24px; letter-spacing: -1px; }
